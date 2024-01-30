@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackingCoding", "CrackingCoding\CrackingCoding.csproj", "{A3854DAA-510B-493A-9CBD-676B44CFCEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{2E0B05D1-B0A6-4B6B-BEB1-64D0982AEF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3854DAA-510B-493A-9CBD-676B44CFCEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3854DAA-510B-493A-9CBD-676B44CFCEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3854DAA-510B-493A-9CBD-676B44CFCEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3854DAA-510B-493A-9CBD-676B44CFCEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0B05D1-B0A6-4B6B-BEB1-64D0982AEF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0B05D1-B0A6-4B6B-BEB1-64D0982AEF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0B05D1-B0A6-4B6B-BEB1-64D0982AEF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0B05D1-B0A6-4B6B-BEB1-64D0982AEF82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
